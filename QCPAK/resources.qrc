@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/openHS.png</file>
+    <file>icons/folder_opened.png</file>
+    <file>icons/folder_closed.png</file>
+    <file>icons/qc_logo.png</file>
+    <file>icons/qc.ico</file>
+  </qresource>
+</RCC>
